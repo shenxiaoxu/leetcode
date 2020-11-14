@@ -1,0 +1,10 @@
+intuition:
+-there are different ways to make it balanced. For every index i in the string, we need to delete all b in the left and all a in the right.
+Algorithm:
+-create array to record how many characters on the right for every idx. Use dp method to construct.
+-iterate string from left. if we encounter b, we compare res and bcount so far + a on its right and we get its mini
+-compare res with bcount because we need to compare the method that all b got deleted.
+tc
+O(n)
+sc
+O(n)
