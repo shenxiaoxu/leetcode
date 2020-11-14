@@ -1,0 +1,9 @@
+intuition:
+-we can see jump idx is based on previous jump idx and also jump idx's step is based on previous jump idx's step
+algorithm:
+-use bfs to iterate all result
+-use arr to record previous step result
+-bfs termination result is max(forbidden, x) + a + b
+time complexity
+o(v + e)
+space complexity O(n)
