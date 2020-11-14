@@ -1,0 +1,10 @@
+Intuition
+-use pointer to navigate.
+Algorithm
+-one pointer for level iterative
+-one pointer for head of next level leftest node
+-one pointer for previous node to connect cur node
+TC
+O(N)
+SC
+O(1)
