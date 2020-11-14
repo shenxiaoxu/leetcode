@@ -1,0 +1,8 @@
+Intuition:
+-we can use level order algorithm to traverse each tree's level. In each level, we populate previous node to next node in the queue. 
+-In order not to use space, we can keep two pointers. 
+Algorithm:
+-Two Pointers: One is leftest node of each level. One is cur level node. 
+-We go through each level using cur node. While cur node is not null, first we link cur left and cur right, and then we link cur right and cur's next left.
+Time Complexity O(N) n is each tree node.
+Space Complextiy O(1).
