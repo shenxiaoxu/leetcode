@@ -1,0 +1,4 @@
+algorithm:
+-from i + 1 to i + k + 1 has k elements
+-exceed n, should % n
+-smaller than n, should + n, then % n
