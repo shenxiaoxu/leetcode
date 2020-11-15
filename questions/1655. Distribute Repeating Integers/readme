@@ -1,0 +1,6 @@
+intuition
+-since m is only 0-10, we can do dfs
+algorithm
+-sort count and quantity(descending order)
+-if count[i] < quantity[level], continue
+-level = quantity.length, find all order distribute
