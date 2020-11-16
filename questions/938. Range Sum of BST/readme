@@ -1,0 +1,4 @@
+algorithm
+1.if root.val < l, check right
+2.if root.val > h, check left
+3.add root and check left, right
