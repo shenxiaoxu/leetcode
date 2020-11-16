@@ -1,0 +1,8 @@
+intuition
+-can use dfs or bfs, but it's too slow
+-reduce problem: to get mini operation, we want to make middle length which add up to (total sum of array - x) to be as long as possible. 
+this observation will lead to divide problem into map and presum solution
+algorithm:
+- make map to calculate presum.
+- if we find map has sum - target, we compare the length and res.
+- we get maximum len, return len - maximum len
