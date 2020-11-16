@@ -1,0 +1,4 @@
+algorithm
+1.create list of string
+2.put id into specific bucket 
+3.while ptr's bucket is not null, add to res
