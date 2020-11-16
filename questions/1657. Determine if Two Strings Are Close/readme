@@ -1,0 +1,6 @@
+intuition:
+-operation one means as long as sorted string is same, then two string is close
+-operation two means as long as sorted string's character is same and frequency of unique character has been meet in other string, then two string is close
+algorithm:
+-count each string appearance character frequency, sorted frequency. two string's set should be same.
+-count each string character, two string's set should be same.
