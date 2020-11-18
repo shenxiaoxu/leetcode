@@ -1,0 +1,6 @@
+intuition:
+instead of calculate each index leftest and righest index, we can create arr to record leftest length and rightest length
+algorithm:
+-create up array to record right length, if this array element is bigger than i + 1
+-create down array to record left length, if this array element is bigger than i - 1
+-combine up array and down array
