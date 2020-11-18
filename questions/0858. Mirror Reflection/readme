@@ -1,0 +1,5 @@
+intuition:
+m * p = n * q, if received by one corner. m and n can't all been even. 
+-m is even, n is odd, return 0
+-m is odd, n is even, return 2
+-m is odd, n is odd, return 1
