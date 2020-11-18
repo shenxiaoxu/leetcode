@@ -1,0 +1,3 @@
+algorithm:
+-sort interval
+-if iterate element's first element is smaller than res's last element, means there will be overlap.
