@@ -1,0 +1,7 @@
+intuition:
+use stack to store, previous num and previous string
+algorithm
+-meet [, add num and str to stack
+-meet ], pop str and num from stack, num*curstr+prevstr is curstr
+-meet num, cur*10+num
+-meet char, add to curstr
