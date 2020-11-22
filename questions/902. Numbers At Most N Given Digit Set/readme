@@ -3,5 +3,7 @@ intuition:
 -for length equal to nums, for each digit, if it starts with this digit, and it smaller than digit at that length, we add pow(digit's length, sl - i - 1) to get
 -if digit num equal to s, means we can continue, that's it,
 3214 {1,5,3,2}
-1xxx 4*4*4 // 5 0 // 3xxx 0 //2xxx 4*4*4 //31xx 
+1xxx 4*4*4 // 5 0 // 3xxx 0(same, we can continue) //2xxx 4*4*4 //31xx 
 3214 {1,2}
+1xxx + 2xxx
+
