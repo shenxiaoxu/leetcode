@@ -1,0 +1,4 @@
+intuition:
+-cost, min, we want to make min - cost to be bigger such that we can use saved energy next step
+algorithm:
+sort array based on cost - min, then two variable cur and ans, ans += min - cost, cur = min, then cur -= cost, 
