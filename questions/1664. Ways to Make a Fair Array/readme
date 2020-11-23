@@ -1,0 +1,3 @@
+algorithm:
+record odd value, even value. everytime move index, add left odd value, even value, only cares, 
+if remove cur, we check left odd + right even == right odd + left even
