@@ -1,0 +1,4 @@
+algorithm:
+-relation between recurring: res[0,0] first means not rob this root, second means rob this root.
+-res[0] = max(left[0],left[0])+max(right[0] + right[1]), so you can rob left(rob, or not rob) + right(rob, or not rob)
+-res[1] = root.val + left[0] + right[0], rob root, not rob left and right.
