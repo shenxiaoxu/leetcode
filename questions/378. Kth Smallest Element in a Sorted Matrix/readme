@@ -1,0 +1,4 @@
+algorithm:
+-use heap to store elements
+-continue to add number into heap, until you get k smallest element.
+-because it's sorted, add candidate
