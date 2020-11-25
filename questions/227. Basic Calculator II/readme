@@ -1,0 +1,4 @@
+algorithm:
+-use stack to store intege
+-sign store previous sign symbol, if previous sign equals "+-*/", then popstack's value and combine with cur num
+-special case is i = len(num) - 1 is also go into sign judgement.
