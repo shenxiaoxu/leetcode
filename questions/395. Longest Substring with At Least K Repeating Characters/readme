@@ -1,0 +1,1 @@
+there are a most 26 unique, for every possible unique, we use sliding window, if bigger than unique, we shrank, otherwise we move right.
