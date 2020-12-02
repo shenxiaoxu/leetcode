@@ -1,0 +1,5 @@
+1.split point, mark (start point, -height) and (end point, height).
+2.sort point, sweeping point by iterate through point.
+3.each x, we get highest y, by putting start x into queue.
+4.we elimite height in queue by encountering height is bigger than zero.
+5.if there is height difference, then we record in result.
