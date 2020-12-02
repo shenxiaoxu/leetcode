@@ -13,5 +13,6 @@ each question will use three language, python, java, c++
 | 1655 | [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/) | |[Python](questions/1655.%20Distribute%20Repeating%20Integers/distri.py)| [C++](questions/1655.%20Distribute%20Repeating%20Integers/distri.cpp)| [JAVA](questions/1655.%20Distribute%20Repeating%20Integers/distri.java) | Hard
 | 1674 |[Minimum Moves to Make Array Complementary]| Sweep |
 | 218 |[Skyline Problem]| Sweep |
+| 244 |[Shortest Word Distance II]| design |
 
 
