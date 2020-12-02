@@ -14,5 +14,7 @@ each question will use three language, python, java, c++
 | 1674 |[Minimum Moves to Make Array Complementary]| Sweep |
 | 218 |[Skyline Problem]| Sweep |
 | 244 |[Shortest Word Distance II]| design |
+| 104 |[Maximum Depth of Binary Tree]| Tree |
+| 559 |[Maximum Depth of n-nary Binary Tree]| Tree |
 
 
