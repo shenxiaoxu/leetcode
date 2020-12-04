@@ -16,5 +16,6 @@ each question will use three language, python, java, c++
 | 244 |[Shortest Word Distance II]| design |
 | 104 |[Maximum Depth of Binary Tree]| Tree |
 | 559 |[Maximum Depth of n-nary Binary Tree]| Tree |
+| 897 |[Increasing Order Search Tree]| Tree |
 
 
