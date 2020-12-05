@@ -17,5 +17,7 @@ each question will use three language, python, java, c++
 | 104 |[Maximum Depth of Binary Tree]| Tree |
 | 559 |[Maximum Depth of n-nary Binary Tree]| Tree |
 | 897 |[Increasing Order Search Tree]| Tree |
+| 897 |[Increasing Order Search Tree]| Tree |
+|1492 | [The kth Factor of n] | Math|
 
 
