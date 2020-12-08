@@ -1,0 +1,5 @@
+Intuition:
+This is classic level order traversal.
+Algorithm:
+1. Use python's queue to do BFS traversal of entire of tree.
+2. In Every Level, we put this level's value into list. At the of level, we put this list into final result.
