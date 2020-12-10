@@ -2,3 +2,4 @@ dream's code review
 1.when use heap, first push, then pop, we can directly use heapq.pushpop()
 2.nlargestelement, we can also use heap's function. n largest element.
 3.when use heap, first pop, then push, we can directly use heapq.replace()
+4.use heapify to initialize the queue, don't use heappush each element in the queue
