@@ -1,0 +1,8 @@
+intuition:
+1.use an array that marks the state of a node.
+2.for all node, if it has been explored, then add into queue to explore
+3.use bfs to traversal neighbor node. 
+--If neighbor node has not been explored, then give it opposite stauts of current node. 
+--If neighbor node has been explored and it's status is same as current one, then return False;
+Attention:
+1.there might be two or more component of graph, you have to explore all of them.

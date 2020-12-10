@@ -1,0 +1,7 @@
+Intuition:
+If the tree is complete tree, once we encouter none node,  while we do level order traversal of tree. 
+We know that the following node which we hasn't done visiting should all be None.
+Algorithm:
+1. Level order of tree
+2. once we encouter None, we stop
+3. if there any none node in queue, we return false. Otherwise we return true
