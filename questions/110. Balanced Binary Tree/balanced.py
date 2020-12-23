@@ -14,7 +14,9 @@ class Solution:
 				return 0
 			left = dfs(root.left)
 			right = dfs(root.right)
+			print((left, right))
 			if abs(left-right) > 1:
 				ans = False
 			return max(left, right) + 1
+		dfs(root)
 		return ans
